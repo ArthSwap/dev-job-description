@@ -61,4 +61,5 @@ We aim to develop high quality products while committing to the speed of develop
 Token payment, legal tender payment, etc. can be adjusted. We will ask you during the interview.
 
 If you feel this applies to you, please fill out the form below.
-[application form](https://4now5dv97qx.typeform.com/to/uzS1gZRf)
+
+- [application form](https://4now5dv97qx.typeform.com/to/uzS1gZRf)
