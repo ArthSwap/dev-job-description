@@ -3,7 +3,7 @@ This is a job page for developers.
 
 # Company Profile
 
-We are a Singapore-based company leading the development of ArthSwap, the most used exchange on Astar Network from Japan with a valuation of 1 billion USD.
+We are leading the development of ArthSwap, the most used exchange on Astar Network with a valuation of 1 billion USD.
 We aim to develop high quality products while committing to the speed of development and growth.
 
 - [Astar Network website](https://astar.network/)
